@@ -1,0 +1,18 @@
+Fitter Status : Successful - Wed Oct 21 16:03:07 2020
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : PFC_FB_ON_OFF_Tester
+Top-level Entity Name : PFC_FB_ON_OFF_Tester
+Family : MAX 10
+Device : 10M50DAF484C7G
+Timing Models : Final
+Total logic elements : 1,043 / 49,760 ( 2 % )
+    Total combinational functions : 730 / 49,760 ( 1 % )
+    Dedicated logic registers : 781 / 49,760 ( 2 % )
+Total registers : 781
+Total pins : 185 / 360 ( 51 % )
+Total virtual pins : 0
+Total memory bits : 20,480 / 1,677,312 ( 1 % )
+Embedded Multiplier 9-bit elements : 0 / 288 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )
